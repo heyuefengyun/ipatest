@@ -4,14 +4,25 @@
 <dict>
 	<key>compileBitcode</key>
 	<false/>
+	<key>destination</key>
+	<string>export</string>
+	<key>manifest</key>
+	<dict>
+		<key>appURL</key>
+		<string>https://gitee.com/heyuefengyun/testing-ipa-distribution/raw/main/WikiFX.ipa</string>
+		<key>displayImageURL</key>
+		<string>https://gitee.com/heyuefengyun/testing-ipa-distribution/raw/main/57.png</string>
+		<key>fullSizeImageURL</key>
+		<string>https://gitee.com/heyuefengyun/testing-ipa-distribution/raw/main/512.png</string>
+	</dict>
 	<key>method</key>
-	<string>ad-hoc</string>
+	<string>debugging</string>
 	<key>signingStyle</key>
 	<string>automatic</string>
 	<key>stripSwiftSymbols</key>
 	<true/>
 	<key>teamID</key>
-	<string>547CA53GGZ</string>
+	<string>WF6993K55U</string>
 	<key>thinning</key>
 	<string>&lt;none&gt;</string>
 </dict>
