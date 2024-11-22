@@ -34,6 +34,8 @@
 				<string>3.5.0</string>
 				<key>kind</key>
 				<string>software</string>
+				<key>platform-identifier</key>
+				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
 				<string>WikiFX</string>
 				<key>subtitle</key>
